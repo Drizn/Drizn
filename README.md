@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudo Técnico em Informática e tenho grande interesse na área de Desenvolvimento Web, com o objetivo de me tornar um profissional do setor. Adoro programar e estou constantemente explorando novas tecnologias e descobrindo meus caminhos na área!<br><br>📌 Atualmente estudando:<br><br>    💻 Linguagens: C# e JavaScript<br><br>    🌐 Web: HTML5 e CSS3<br><br>    🗄️ Outros: Bancos de Dados
+Estudo Técnico em Informática e tenho grande interesse na área de Desenvolvimento Web, com o objetivo de me tornar um profissional do setor. Adoro programar e estou constantemente explorando novas tecnologias e descobrindo meus caminhos na área!<br><br>📌 Atualmente estudando:<br><br>    💻 Linguagens: C# e JavaScript<br><br>    🌐 Web: HTML5 e CSS3<br><br>    🗄️ Outros: Bancos de Dados e Analise e Projeto de Sistemas
 
 
 ## 🌐 Socials:
